@@ -1,13 +1,13 @@
 {
-    "key": "U NEED KEYY!!!",
+    "key": "bash",
     "mysql": {
-        "address": "127.0.0.1:3306",
-        "username": "xfdjsa",
-        "password": "dasdwqdqdadsqrerfwfdsfwe",
-        "database": "kgnjdfkng"
+        "address": "localhost:1337",
+        "username": "root",
+        "password": "root",
+        "database": "anran"
     },
     "connection": {
-        "port": 999
+        "port": 1337
     },
     "branding": {
         "title": "0 bots Connected ",
